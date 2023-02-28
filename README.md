@@ -1,5 +1,7 @@
-hey. im arlan.
-i like writing code. not so much in C.
-very much so in js, angular, py, go, java.
+hey
 
-trying to be someone in life, hopefully thru code.
+import random
+n = random.randint(0,1000000)
+
+while n == 10000:
+  print ('hey')
